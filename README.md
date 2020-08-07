@@ -4,10 +4,10 @@
   <img align="left" alt="Gagan | Twitter" width="21px" src="./twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Linkedin" width="21px" src="https://github.com/gagandeep7/gagandeep7/tree/master/assets/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="21px" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/tree/master/assets/icons/linkedin.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Portfolio" width="21px" src="https://github.com/gagandeep7/gagandeep7/tree/master/assets/icons/portfolio.svg" />
+  <img align="left" alt="Portfolio" width="21px" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/tree/master/assets/icons/portfolio.svg" />
 </a>
 
 <br />
