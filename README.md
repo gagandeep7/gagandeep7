@@ -4,10 +4,10 @@
   <img align="left" alt="Gagan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="../assets/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="21px" src="../assets/icons/linkedin.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="../assets/icons/portfolio.svg" />
+  <img align="left" alt="Portfolio" width="21px" src="../assets/icons/portfolio.svg" />
 </a>
 
 <br />
