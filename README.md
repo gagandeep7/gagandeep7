@@ -19,8 +19,8 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/assets/icons/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/assets/icons/javascript.png"><code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/assets/icons/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/assets/icons/react.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/assets/icons/nodejs.png"></code>
