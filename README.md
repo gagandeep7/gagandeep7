@@ -1,7 +1,7 @@
 ### Hi there, I'm [Gagan!](https://gagan7.me) 👋
 
 <a href="https://twitter.com/Gag19144758">
-  <img align="left" alt="Gagan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Gagan | Twitter" width="21px" src="./twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Linkedin" width="21px" src="../assets/icons/linkedin.svg" />
