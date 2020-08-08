@@ -31,3 +31,4 @@ Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from In
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/cli.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sql.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sass.svg"></code>
