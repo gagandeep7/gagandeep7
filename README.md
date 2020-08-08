@@ -18,7 +18,7 @@ Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from In
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/gagandeep7/gagandeep7/issues)
 
 **Languages and Tools:**
 
