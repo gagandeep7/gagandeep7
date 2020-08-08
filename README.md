@@ -25,10 +25,10 @@ Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from In
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="./css.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="./html.svg"></code>
-<code><img height="20" src="./c++.svg"></code>
-<code><img height="20" src="./linux.svg"></code>
-<code><img height="20" src="./github.svg"></code>
-<code><img height="20" src="./cli.svg"></code>
-<code><img height="20" src="./python.svg"></code>
-<code><img height="20" src="./sql.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/html.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/c++.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/linux.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/github.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/cli.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/python.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sql.svg"></code>
