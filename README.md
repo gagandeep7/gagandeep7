@@ -1,13 +1,13 @@
 ### Hi there, I'm [Gagan!](https://gagan7.me) 👋
 
 <a href="https://twitter.com/Gag19144758">
-  <img align="left" alt="Gagan | Twitter" width="21px" src="./twitter.svg" />
+  <img align="left" alt="Gagan | Twitter" width="21px" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Linkedin" width="21px" src="./linkedin.svg" />
+  <img align="left" alt="Linkedin" width="21px" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/linkedin.svg" />
 </a>
 <a href="https://gagan7.me">
-  <img align="left" alt="Portfolio" width="21px" src="./portfolio.svg" />
+  <img align="left" alt="Portfolio" width="21px" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/portfolio.svg" />
 </a>
 
 <br />
