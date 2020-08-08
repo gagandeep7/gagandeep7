@@ -33,4 +33,4 @@ Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from In
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sql.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sass.svg"></code>
 
-[![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagandeep7)](https://github.com/anuraghazra/github-readme-stats)
+[![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagandeep7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
