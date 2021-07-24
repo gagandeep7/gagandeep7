@@ -15,8 +15,8 @@
 
 Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working on my project named Woofs
-- 🌱 I’m currently learning React & Data Structures
+- 🔭 I’m currently working as React Intern at Chicmic,Mohali
+- 🌱 I’m currently learning Node , React Native & Data Structures
 - 💬 Ask me about anything [here](https://github.com/gagandeep7/gagandeep7/issues)
 
 **Languages and Tools:**
