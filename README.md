@@ -22,7 +22,7 @@ Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from In
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master  /css.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/css.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/html.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/c++.svg"></code>
@@ -31,6 +31,5 @@ Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from In
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/cli.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/gagandeep7/gagandeep7/master/sass.svg"></code>
 
 [![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagandeep7&show_icons=true&theme=dracula&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
