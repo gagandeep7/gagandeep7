@@ -15,8 +15,7 @@
 
 Hi, I'm Gagandeep Singh, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working as React Intern at Chicmic,Mohali
-- 🌱 I’m currently learning Node , React Native & Data Structures
+- 🔭 I’m currently working as React Devloper at Net Solutions,Chandigarh
 - 💬 Ask me about anything [here](https://github.com/gagandeep7/gagandeep7/issues)
 
 **Languages and Tools:**
